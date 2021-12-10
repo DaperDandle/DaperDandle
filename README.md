@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaperDandle
+- 👋 Hi, I’m Dan!
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning Reactjs and Gatsby
 - 💞️ I’m looking to collaborate on interesting projects that will help me hone my skills!
