@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan!
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Reactjs and Gatsby
+- 👀 I’m interested in front-end and full-stack Development
+- 🌱 I’m currently learning Nodejs, Expressjs, and MongoDb
 - 💞️ I’m looking to collaborate on interesting projects that will help me hone my skills!
 - 📫 How to reach me danielweber4420@gmail.com
 
